@@ -5,7 +5,8 @@ def set_diff(a,b):
             x.append(i)
     print(x)
 
-#Making changes to the file in cloned repo    
+#Making changes to the file in cloned repo  
+# Making changes to the repo that pulled  
 m = int(input("ENter"))
 a = list(map(int,input("\nEnter the numbers : ").strip().split()))[:m]
 n = int(input("ENter"))
